@@ -1,0 +1,18 @@
+{
+  "index_to_emotion": {
+    "0": "neutral",
+    "1": "happy",
+    "2": "sad",
+    "3": "angry",
+    "4": "fearful",
+    "5": "disgust"
+  },
+  "ravdess_original_codes": {
+    "neutral": 1,
+    "happy": 3,
+    "sad": 4,
+    "angry": 5,
+    "fearful": 6,
+    "disgust": 7
+  }
+}
